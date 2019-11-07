@@ -8207,13 +8207,15 @@ textarea.form-control {
   font-weight: 700;
   font-size: 40px; }
 
+  .author-img {
+    background-size: cover;
+    background-repeat: no-repeat; }
 .img,
-.author-img,
 .logo-img,
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  /*background-position: center center; }*/
+  background-position: center center; }
 
 .image-popup {
   cursor: -webkit-zoom-in;
