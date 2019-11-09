@@ -8209,7 +8209,8 @@ textarea.form-control {
 
   .author-img {
     background-size: cover;
-    background-repeat: no-repeat; }
+    background-repeat: no-repeat;
+    z-index: 101;  }
 .img,
 .logo-img,
 .user-img {
